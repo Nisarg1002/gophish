@@ -4,7 +4,7 @@
 		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
-		"trusted_origins": ["https://gophish-production-285a.up.railway.app/"]
+		"trusted_origins": ["TUNNEL_ID.cfargotunnel.com", "https://VPS_IP/, "main_domain.com", "athena.ns.cloudflare.com", "vin.ns.cloudflare.com"]
 	},
 	"phish_server": {
 		"listen_url": "0.0.0.0:80",
